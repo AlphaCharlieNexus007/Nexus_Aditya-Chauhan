@@ -26,8 +26,8 @@ any costs or intermediataries.
 2. A lightweight and simplistic architecture and interface. 
 3. Safeguards against edge cases and provisions for scalability. 
 • Tech Stack:
-1. HTML, CSS, and Vanilla JavaScript for the front end.
-2. Flask for the back end.
-3. Along with the benefits the platform provides to brands and influencers, it indirectly helps the economy through improving the ease of business, encouraging influencers to seek new opportunities for earning, and increasing currency flow from party to party.
+a. HTML, CSS, and Vanilla JavaScript for the front end.
+b. Flask for the back end.
+c. Along with the benefits the platform provides to brands and influencers, it indirectly helps the economy through improving the ease of business, encouraging influencers to seek new opportunities for earning, and increasing currency flow from party to party.
 
 Presentation: https://www.dropbox.com/scl/fi/mnwx86rxrqkkcfdriz671/Kalpathon-2.0-Pitch.pptx?rlkey=jwe2g7omi1jxm4eycxi4hwjd8&st=tyr2m2z6&dl=0
