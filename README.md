@@ -11,21 +11,23 @@ Micro-Influencer Brand Collaboration Hub
 Name: Aditya Chauhan
 Phone no: 94111471293
 • Team Members & Roles Name Role
-Member 1: Aditya Chauhan, Team Leader
+Member 1: Aditya Chauhan, Team Leader 
 Member 2: Shivankar Tiwari, Full Stack Developer
+• Project Description
+Problem: Budding and niche influencers are invisible to domain brands, 
+don't have any established platform to connect to brands or earn through campaigning.
+On the flip side, brands have to waste significant time and bandwidth resources 
+in filtering To find eager and eligible influencers for their campaigns. 
+• Solution: Clout Consortium, a two-sided marketplace enabling direct, 
+role-based collaboration via structured campaigns without 
+any costs or intermediataries. 
+• Key Features: 
+1. A core data model triad of brands, influencers, campaigns & applications.
+2. A lightweight and simplistic architecture and interface. 
+3. Safeguards against edge cases and provisions for scalability. 
+• Tech Stack:
+1. HTML, CSS, and Vanilla JavaScript for the front end.
+2. Flask for the back end.
+3. Along with the benefits the platform provides to brands and influencers, it indirectly helps the economy through improving the ease of business, encouraging influencers to seek new opportunities for earning, and increasing currency flow from party to party.
 
-
-
-
-TO BE ADDED
-Project Description
-Problem: Briefly explain the real-world problem you are solving. 
-
-Solution: Describe your approach and how your project solves it. 
-Key Features: Feature 1 Feature 2 Feature 3 
-Tech Stack: (e.g., React, Node.js, Python, TensorFlow, MongoDB, etc.) 
-Impact: Explain how your project helps users / society.
-
-
-
-Presentation: [Link]
+Presentation: https://www.dropbox.com/scl/fi/mnwx86rxrqkkcfdriz671/Kalpathon-2.0-Pitch.pptx?rlkey=jwe2g7omi1jxm4eycxi4hwjd8&st=tyr2m2z6&dl=0
